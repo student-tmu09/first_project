@@ -1,4 +1,4 @@
 # first_project
-this is my first git repository
+Hello,This is my first Project.
 <br>
-auther-Ayush Thakur
+It is basic  Tic Tac toe Game project based on HTML ,CSS and JAVASCRIPT.
